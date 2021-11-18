@@ -1,1 +1,2 @@
-# Medical-inventory
+# Medical-Inventory-Application
+Medical Inventory Application
