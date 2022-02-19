@@ -1,6 +1,6 @@
 # Medical-Inventory-Application
 Medical Inventory Application -
-https://share.streamlit.io/anuruddhan/medical-inventory/main/sale_invoice.py
+https://share.streamlit.io/anuruddhan/medical-inventory-application/main/sale_invoice.py
 
 
 
